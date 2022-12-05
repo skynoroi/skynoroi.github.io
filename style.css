@@ -1,4 +1,4 @@
-﻿body {
+body {
     margin: 0;
     padding: 0;
     font-family: 'Oswald', sans-serif;
@@ -137,34 +137,6 @@ nav .fa{
     font-size: 28px;
     line-height: 1.5;
 }
-
-/*Статическая нижняя панель
-
-.bottom {
-    position: fixed;
-    left: 0; bottom: 0;
-    padding: 10px;
-    background: #00196e;
-    color: #fff;
-    width: 100%;
-    text-align: left;
-}*/
-
-/*Кастомный скроллбар (не работает)
-
-::-webkit-scrollbar {
-    width: 12px;
-}
-
-::-webkit-scrollbar-track {
-    border-radius: 100vh;
-    background: rgb(4,9,30,0.7);
-}
-
-::-webkit-scrollbar-thumb {
-    background: linear-gradient( rgb(0, 27, 255) rgb(0, 255, 189) rgb(174, 0, 255) );
-}
-*/
 
 .bot {
     background: #0C0826;
